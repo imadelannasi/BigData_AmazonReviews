@@ -4,7 +4,7 @@ This repository contains a fully Dockerized end-to-end pipeline for streaming Am
 
 ## 🚀 Architecture
 
-
+text
 Amazon JSONL ➔ Kafka ➔ Spark Structured Streaming ➔
   ├─ Real-time WebSocket Broadcast (Django Channels) ➔ React/Browser
   └─ MongoDB Archive ➔ Django Offline Dashboard (Chart.js)
