@@ -22,9 +22,7 @@ Amazon JSONL ➔ Kafka ➔ Spark Structured Streaming ➔
 
 
 ├── kafka_streaming/      # Producer code & Dockerfile
-
-│   
-├── producer.py
+│   ├── producer.py
 │   └── Dockerfile
 ├── spark_processor/      # Spark consumer & ML pipeline
 │   ├── consumer.py
