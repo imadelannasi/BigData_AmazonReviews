@@ -96,4 +96,4 @@ Amazon JSONL ➔ Kafka ➔ Spark Structured Streaming ➔
 
 ---
 
-© 2025 Your Name. Licensed under MIT.")
+© 2025 IMAD EL ANNASI. Licensed under MIT.")
